@@ -13,10 +13,11 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 - **JavaScript** – Functionality
 
 ## 📷 Screenshot
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](<img width="1566" height="909" alt="calculator png" src="https://github.com/user-attachments/assets/746888c9-ae99-4e98-ba82-801c04371798" />
+)
 
 ## 📂 Getting Started
 1. Clone the repository:
    ```bash    
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/Sunil-1230/calculator.git
   

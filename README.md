@@ -19,5 +19,5 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 ## 📂 Getting Started
 1. Clone the repository:
    ```bash    
-   git clone https://github.com/Sunil-1230/calculator.git
+   https://github.com/Sunil-1230/calculator.git
   
